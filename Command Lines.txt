@@ -1,0 +1,9 @@
+//Node Side
+npm i express mongoose dotenv nodemon cors
+npm i jsonwebtoken joi joi-password-complexity
+npm i bcrypt
+
+//React Side
+npx create-react-app client
+cd client
+npm i axios react-router-dom
