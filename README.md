@@ -6,9 +6,9 @@ This projects presents an authentication application to look at how to create lo
 
 For server side:
 
-npm i express mongoose dotenv nodemon cors
+`npm i express mongoose dotenv nodemon cors
 npm i jsonwebtoken joi joi-password-complexity
-npm i bcrypt
+npm i bcrypt`
 
 For client side
 
