@@ -16,7 +16,7 @@ npx create-react-app client
 cd client
 npm i axios react-router-dom
 
-### Working with the Project 
+## Working with the Project 
 
 Two configaration files into this project. First in the client side and second in the server side. In the server side folder create .env file and put this code inside it.
 
