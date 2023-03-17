@@ -26,5 +26,5 @@ JWTPRIVATEKEY = 14039205fbd9e23cba329cbbdcca08b3a52d7993
 
 SALT = 10
 
-Now, create all these variables in the project and make sure ATLAS_URI variable is set. Otherwise, the project will not work.
+Now, create all these variables in the project and make sure DB variable is set. Otherwise, the project will not work.
 
